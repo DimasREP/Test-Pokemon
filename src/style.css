@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+   background-color: white;
+}
+
+.block{
+   padding-left: 5px;
+}
+.nav{
+   background-color: white;
+   color: #020826;
+   padding: 20px;
+   padding-left: 100px;
+   padding-right: 120px;
+}
+.footer{
+   margin-top: 900px;
+}
+.heading{
+   margin-top: 150px;
+}
+
+.galeri{
+   margin-top: 5px;
+}
+
+.tentang{
+   margin-top: 75px;
+}
